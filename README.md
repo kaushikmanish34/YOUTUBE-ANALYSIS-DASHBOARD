@@ -70,4 +70,4 @@ This project demonstrates the use of *Power BI for video analytics*, applying te
 
 ## Dashboard Preview
 
-![Youtubeanalysis]()
+![Youtubeanalysis](https://github.com/kaushikmanish34/YOUTUBE-ANALYSIS-DASHBOARD/blob/main/Youtube%20data%20analysis.png)
